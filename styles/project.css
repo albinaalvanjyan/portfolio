@@ -6,8 +6,8 @@
 .container{
     max-width: 1280px;
     width: 100%;
-     margin: 0 auto;
+    margin: 0 auto;
 }
 .skizb{
-    background-color: black;
+    background-color: rgb(149, 23, 23);
 }
